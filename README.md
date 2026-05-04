@@ -8,11 +8,10 @@
 - 💗 Welcome to my blog：[**Dream Translator**](https://dreamtranslator.cn/)
 - 🏸 Highly Love Badminton
 
-<div align="center">
-
-|  |  |
-|:---:|:---:|
-| ![Kelsey's GitHub stats](https://github-readme-stats-zeta-two-85.vercel.app/api?username=Kelsey050218&show_icons=true&theme=transparent&bg_color=0d1117&title_color=14CF08&text_color=c9d1d9&icon_color=14CF08&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60) | ![Top Languages](https://github-readme-stats-zeta-two-85.vercel.app/api/top-langs/?username=Kelsey050218&layout=compact&theme=transparent&bg_color=0d1117&title_color=14CF08&text_color=c9d1d9&hide_border=true&langs_count=8&cache_seconds=60) |
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-zeta-two-85.vercel.app/api?username=Kelsey050218&show_icons=true&theme=transparent&bg_color=ffffff&title_color=14CF08&text_color=333333&icon_color=14CF08&border_color=e1e4e8&count_private=true&include_all_commits=true&cache_seconds=60" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-zeta-two-85.vercel.app/api/top-langs/?username=Kelsey050218&layout=compact&theme=transparent&bg_color=ffffff&title_color=14CF08&text_color=333333&border_color=e1e4e8&langs_count=8&cache_seconds=60" alt="Top Languages" />
+</p>
 
 ---
 
