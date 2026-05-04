@@ -25,30 +25,6 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Kelsey050218&theme=dracula&no-frame=true&row=1&column=7)
-
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kelsey050218&theme=dracula&hide_border=true)
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Kelsey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kelsey050218&theme=dracula&hide_border=true)
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
