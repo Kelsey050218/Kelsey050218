@@ -12,7 +12,7 @@
 
 | GitHub Stats | Most Used Languages |
 |:---:|:---:|
-| ![Kelsey's GitHub stats](https://github-readme-stats-zeta-two-85.vercel.app/api?username=Kelsey050218&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400) | ![Top Languages](https://github-readme-stats-zeta-two-85.vercel.app/api/top-langs/?username=Kelsey050218&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400) |
+| ![Kelsey's GitHub stats](https://github-readme-stats-zeta-two-85.vercel.app/api?username=Kelsey050218&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60) | ![Top Languages](https://github-readme-stats-zeta-two-85.vercel.app/api/top-langs/?username=Kelsey050218&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=60) |
 
 ---
 
