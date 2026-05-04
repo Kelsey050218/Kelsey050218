@@ -10,7 +10,9 @@
 
 <div align="center">
 
-| ![Kelsey's GitHub stats](https://github-readme-stats-zeta-two-85.vercel.app/api?username=Kelsey050218&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60) | ![Top Languages](https://github-readme-stats-zeta-two-85.vercel.app/api/top-langs/?username=Kelsey050218&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=60) |
+|  |  |
+|:---:|:---:|
+| ![Kelsey's GitHub stats](https://github-readme-stats-zeta-two-85.vercel.app/api?username=Kelsey050218&show_icons=true&theme=transparent&bg_color=0d1117&title_color=14CF08&text_color=c9d1d9&icon_color=14CF08&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=60) | ![Top Languages](https://github-readme-stats-zeta-two-85.vercel.app/api/top-langs/?username=Kelsey050218&layout=compact&theme=transparent&bg_color=0d1117&title_color=14CF08&text_color=c9d1d9&hide_border=true&langs_count=8&cache_seconds=60) |
 
 ---
 
