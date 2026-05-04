@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kelsey050218/Kelsey050218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Kelsey
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kelsey050218&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Kelsey050218?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+| GitHub Stats | Most Used Languages |
+|:---:|:---:|
+| ![Kelsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelsey050218&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelsey050218&layout=compact&theme=dracula&hide_border=true&langs_count=8) |
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Kelsey050218&theme=dracula&no-frame=true&row=1&column=7)
+
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kelsey050218&theme=dracula&hide_border=true)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Kelsey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kelsey050218&theme=dracula&hide_border=true)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Kelsey050218/Kelsey050218/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/Kelsey050218">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+</div>
