@@ -3,7 +3,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, 我是小译
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B983&width=435&lines=Tomorrow+will+be+fine." alt="Typing SVG" />
 </p>
 
 <p align="center">
