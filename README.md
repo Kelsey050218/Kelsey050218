@@ -1,11 +1,11 @@
 # 👋 Hi, I'm 小译
 
 - 🎓 A undergraduate majoring in Software Engineering at [**Fuzhou University**](https://www.fzu.edu.cn/)
-- 💻 Like backend development and AI
+- 💻 Like Backend Development and AI
+- 🌱 I'm currently learning AI Infrastructure and Machine Learning
 - 💼 I am currently a member of the [**SOSD**](https://sosd.fzu.edu.cn/home) development team
-- 👀 I'm interested in Java, Python, Vue and various programming technologies
-- 🌱 I'm currently learning AI Infrastructure and NLP
-- 📫 How to reach me: [**dreamtranslator**](https://dreamtranslator.cn/) or [**2071908434@qq.com**](mailto:2071908434@qq.com)
+- 📫 How to reach me: [**2071908434@qq.com**](mailto:2071908434@qq.com)
+- 💗 Welcome to my blog：[**Dream Translator**](https://dreamtranslator.cn/)
 - 🏸 Highly Love Badminton
 
 <div align="center">
