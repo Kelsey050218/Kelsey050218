@@ -1,5 +1,7 @@
 # 👋 Hi, I’m 小译
+<div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B983&width=435&lines=Tomorrow+will+be+fine.)
+</div>
 - 🎓 A undergraduate majoring in Software Engineering at [**Fuzhou University**](https://www.fzu.edu.cn/) 
 - 💻 Like backend development and AI
 - 💼 I am currently a member of the [**SOSD**](https://sosd.fzu.edu.cn/home) development team
