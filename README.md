@@ -2,7 +2,7 @@
 
 - 🎓 A undergraduate majoring in Software Engineering at [**Fuzhou University**](https://www.fzu.edu.cn/)
 - 💻 Like Backend Development and AI
-- 🌱 I'm currently learning AI Infrastructure and Machine Learning
+- 🌱 I'm currently learning **AI Infrastructure** and **Machine Learning**
 - 💼 I am currently a member of the [**SOSD**](https://sosd.fzu.edu.cn/home) development team
 - 📫 How to reach me: [**2071908434@qq.com**](mailto:2071908434@qq.com)
 - 💗 Welcome to my blog：[**Dream Translator**](https://dreamtranslator.cn/)
