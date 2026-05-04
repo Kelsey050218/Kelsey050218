@@ -1,21 +1,13 @@
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, 我是小译
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kelsey050218&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Kelsey050218?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
-</div>
+# 👋 Hi, I’m 小译
+- 🎓 A undergraduate majoring in Software Engineering at [**Fuzhou University**](https://www.fzu.edu.cn/) 
+- 💻 Like backend development and AI
+- 💼 I am currently a member of the [**SOSD**](https://sosd.fzu.edu.cn/home) development team
+- 👀 I’m interested in Java, Python, Vue and various programming technologies
+- 🌱 I’m currently learning AI Infrastructure and NLP
+- 📫 How to reach me: [**dreamtranslator**](https://dreamtranslator.cn/) or [**2071908434@qq.com**](mailto:2071908434@qq.com)
+- 🏸 Highly Love Badminton
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -25,34 +17,11 @@
 
 </div>
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 ![Snake animation](https://github.com/Kelsey050218/Kelsey050218/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
----
 
-<div align="center">
-
-### 💬 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/Kelsey050218">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B983&width=435&lines=Tomorrow+will+be+fine.)
